@@ -1,0 +1,6 @@
+flask
+pymysql
+pytest
+pytest-mock
+pre-commit
+gunicorn
